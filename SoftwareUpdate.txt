@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
