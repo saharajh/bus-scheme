@@ -1,1 +1,1 @@
-fix resume training
+Fix ONNX GPU inference bug (#6840)
