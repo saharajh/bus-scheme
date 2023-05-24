@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
