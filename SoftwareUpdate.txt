@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add C++ Classify inference example (#6868)
