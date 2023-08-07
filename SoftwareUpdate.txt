@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Update Colab notebook for YOLOv8.1 (#8660)
