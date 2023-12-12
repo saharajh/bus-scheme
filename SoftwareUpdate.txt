@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
