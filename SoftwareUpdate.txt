@@ -1,1 +1,1 @@
-fix predict with class filter
+Add missing single-line docstrings (#8362)
