@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
