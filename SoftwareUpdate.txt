@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+New test for labels and crops (#8861)
