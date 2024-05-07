@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Replace onnx2tf usage from CLI to Python (#8429)
