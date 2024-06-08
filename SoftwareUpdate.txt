@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
